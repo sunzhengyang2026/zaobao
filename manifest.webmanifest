@@ -1,0 +1,9 @@
+{
+  "name": "早报 · Morning Brief",
+  "short_name": "早报",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf9f6",
+  "theme_color": "#16130f",
+  "icons": []
+}
