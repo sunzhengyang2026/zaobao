@@ -1,5 +1,6 @@
-const CACHE='brief-v5-2026-11-20-1795135628';
+const CACHE='brief-v6-2026-11-22-1795347788';
 const ASSETS=['./index.html','./manifest.webmanifest',
+  "./issue-2026-11-22.html",
   "./issue-2026-11-20.html",
   "./issue-2026-11-19.html",
   "./issue-2026-11-16.html",
